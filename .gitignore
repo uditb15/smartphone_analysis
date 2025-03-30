@@ -1,0 +1,29 @@
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Database files
+*.db
+*.sqlite
+*.sql
+
+# IDE specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Others
+__pycache__/
+*.csv
+*.html
+*.png
+*.ipynb_checkpoints/
+*.txt
